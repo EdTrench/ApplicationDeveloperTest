@@ -1,0 +1,2 @@
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ApplicationDeveloperTest\bin\Debug\ApplicationDeveloperTest.exe.config
+C:\Projects\ApplicationDeveloperTest\ApplicationDeveloperTest\bin\Debug\ApplicationDeveloperTest.exe.config
